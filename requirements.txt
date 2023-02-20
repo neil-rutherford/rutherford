@@ -1,0 +1,15 @@
+email-validator
+Flask
+Flask-Mail
+Flask-Migrate
+Flask-Moment
+Flask-SQLAlchemy
+Flask-WTF
+itsdangerous
+Jinja2
+python-dotenv
+Werkzeug
+WTForms
+requests
+python-slugify
+coverage
