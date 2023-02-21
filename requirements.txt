@@ -13,3 +13,4 @@ WTForms
 requests
 python-slugify
 coverage
+mysqlclient
