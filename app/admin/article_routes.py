@@ -9,6 +9,11 @@ import datetime
 from slugify import slugify
 import requests
 
+@bp.route('/')
+def hello():
+    return "hello world"
+
+
 @bp.route('/_admin/create/article', methods=['POST'])
 def create_article():
 
