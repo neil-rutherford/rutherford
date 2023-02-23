@@ -1,2 +1,2 @@
 # rutherford
-Personal website
+My personal website.
